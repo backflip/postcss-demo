@@ -1,0 +1,21 @@
+{
+  "name": "postcss-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "postcss-cssnext": "^3.0.0"
+  },
+  "scripts": {
+    "compile": "gulp postcss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backflip/postcss-demo.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
